@@ -1,0 +1,113 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The uBlock Origin List Project - Romanian Ad (ROad) Block List Light
+# Expires: 1 day
+# Homepage: 
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 0
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# -------------------------------------[INFO]---------------------------------------
+#
+# ROAd list
+# ------------------------------------[FILTERS]-------------------------------------
+
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 paydemic.com
+
+0.0.0.0 jsecoin.com
+0.0.0.0 reasedoper.pw
+0.0.0.0 mataharirama.xyz
+0.0.0.0 listat.biz
+0.0.0.0 lmodr.biz
+0.0.0.0 minecrunch.co
+0.0.0.0 2mdn.net
+0.0.0.0 7w.ro
+0.0.0.0 ado.icorp.ro
+0.0.0.0 adunity.com
+0.0.0.0 brand.ad
+0.0.0.0 gemius.pl
+0.0.0.0 mookie1.com
+0.0.0.0 omniconvert.com
+0.0.0.0 statcounter.com
+0.0.0.0 storage.icorp.ro
+0.0.0.0 taboola.com
+0.0.0.0 zm232.com
+0.0.0.0 adtlgc.com
+0.0.0.0 cxense.com
+0.0.0.0 criteo.net
+0.0.0.0 tynt.com
+0.0.0.0 crwdcntrl.net
+0.0.0.0 t5.ro/static
+0.0.0.0 smartdreamers.ro
+0.0.0.0 criteo.com
+0.0.0.0 doubleclick.net
+0.0.0.0 adform.net
+0.0.0.0 noadblock.org
+0.0.0.0 i401xox.com
+0.0.0.0 ads1-adnow.com
+0.0.0.0 ads2-adnow.com
+0.0.0.0 ads3-adnow.com
+0.0.0.0 tesseradigital.com
+0.0.0.0 qds.ninja
+
+0.0.0.0 observatorulph.ro
+
+0.0.0.0 thumbs.gfycat.com
+
+0.0.0.0 catchy.ro
+
+0.0.0.0 e-day.ro
+0.0.0.0 profitshare.emag.ro
+0.0.0.0 profitshare.ro
+0.0.0.0 l.profitshare.ro
+
+0.0.0.0 2parale.ro
+0.0.0.0 2performant.com
+0.0.0.0 adexc.net
+0.0.0.0 admonitoring.bsgroup.ro
+0.0.0.0 adocean.pl
+0.0.0.0 ads.gadget.ro
+0.0.0.0 ads.tradeads.eu
+0.0.0.0 adservingfactory.com
+0.0.0.0 amazonaws.com/newd.cetrk.com/
+0.0.0.0 bannersnack.com
+0.0.0.0 brat-online.ro
+0.0.0.0 chargeplatform.com
+0.0.0.0 evensys.ro
+0.0.0.0 flx1.com
+0.0.0.0 gravityrd-services.com
+0.0.0.0 megapopads.com
+0.0.0.0 new.cetrk.com
+0.0.0.0 profiling.avandor.com
+0.0.0.0 profiling1.avandor.com
+0.0.0.0 projectagora.s3.amazonaws.com
+0.0.0.0 s.atemda.com
+0.0.0.0 secure.trafic.ro
+0.0.0.0 st.ad.adnow.com
+0.0.0.0 storage.trafic.ro
+0.0.0.0 track.atom-data.io
+0.0.0.0 www4.smartadserver.com
+0.0.0.0 pwa.grgs.ro
+0.0.0.0 retargeting.biz
+0.0.0.0 hotjar.com
+
+0.0.0.0 awstaticdn.net
+0.0.0.0 cloudfront.net
+0.0.0.0 contestapp.a1.ro
+0.0.0.0 creativcdn.net
+0.0.0.0 kreativcdn.net
+
+0.0.0.0 best-top.ro
+0.0.0.0 gtop.ro
+0.0.0.0 hit100.ro
+0.0.0.0 statistics.ro
+0.0.0.0 top-ro.ro
+0.0.0.0 trafic.ro
+0.0.0.0 trafix.ro
+0.0.0.0 zontera.com
+
+0.0.0.0 serve.efortuna.ro
+0.0.0.0 banners.livepartners.com
+0.0.0.0 betano.com
