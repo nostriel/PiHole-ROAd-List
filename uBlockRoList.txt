@@ -39,7 +39,7 @@
 0.0.0.0 criteo.net
 0.0.0.0 tynt.com
 0.0.0.0 crwdcntrl.net
-0.0.0.0 t5.ro/static
+0.0.0.0 t5.ro
 0.0.0.0 smartdreamers.ro
 0.0.0.0 criteo.com
 0.0.0.0 doubleclick.net
@@ -71,7 +71,7 @@
 0.0.0.0 ads.gadget.ro
 0.0.0.0 ads.tradeads.eu
 0.0.0.0 adservingfactory.com
-0.0.0.0 amazonaws.com/newd.cetrk.com/
+0.0.0.0 amazonaws.com
 0.0.0.0 bannersnack.com
 0.0.0.0 brat-online.ro
 0.0.0.0 chargeplatform.com
